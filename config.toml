@@ -316,7 +316,7 @@ theme = "LoveIt"
         #
         enable = false
         # Disqus shortname to use Disqus in posts
-        shortname = "rockerritesh"
+        shortname = "oclaf"
       # Gitalk comment config
       [params.page.comment.gitalk]
         #
@@ -492,9 +492,9 @@ theme = "LoveIt"
 
 # Author config
 [author]
-  name = "rockerritesh"
+  name = "oclaf"
   email = "rockerritesh4@gmail.com"
-  link = "http://sumityadav.com.np"
+  link = "http://oclaf.me"
 
 # Sitemap config
 [sitemap]
