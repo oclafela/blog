@@ -545,34 +545,35 @@ theme = "LoveIt"
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Posts"
+    name = "posts"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = "POST"
     weight = 1
-  [[menu.main]]
-    identifier = "Biography"
-    pre = ""
-    post = ""
-    name = "Biography"
-    url = "/biography/"
-    title = ""
-    weight = 3
+
+    [[menu.main]]
+      identifier = "tags"
+      pre = ""
+      post = ""
+      name = "tags"
+      url = "/tags/"
+      title = ""
+      weight = 3
 
   [[menu.main]]
     identifier = "categories"
     pre = ""
     post = ""
-    name = "Categories"
+    name = "categories"
     url = "/categories/"
     title = ""
     weight = 2
 
   [[menu.main]]
-    identifier = "Photography"
+    identifier = "About"
     pre = ""
     post = ""
-    name = "Photography"
-    url = "/photography/"
+    name = "about"
+    url = "/about/"
     title = ""
     weight = 4
