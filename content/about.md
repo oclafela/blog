@@ -58,9 +58,13 @@ seo:
   images: []
   # ...
 ---
-This site is to write down and collect random stuff. It also helps me keeping work log and tracking my personal goals.
+A summary about myself.
 
-### About
+### Me
 * oclaf (but that's not my real name)
-* Chief Information Officer
-* Languages :it:
+* involved in IT stuff, GRC oriented
+* languages :it: & :uk:
+### Races
+I started enjoying running in 2017. Moving to Luxembourg from London in 2019, I discovered trail running. Spurred on by a friend of mine, I attended my first competition in 2021.
+* 2021-05-15 :it: <a href="https://www.gardatrentinotrail.it/it-it/p/14">Ledro Trail</a>, 43 km / 2500 m+
+* 2021-09-19 :luxembourg: <a href="https://www.utml.lu/">Leopard-Ultratrail Mullerthal</a>, 39 km / 1100 m+

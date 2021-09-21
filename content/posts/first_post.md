@@ -10,8 +10,8 @@ description: ""
 license: ""
 images: []
 
-tags: []
-categories: []
+tags: ["website"]
+categories: ["diary"]
 featuredImage: ""
 featuredImagePreview: ""
 
@@ -65,11 +65,3 @@ seo:
 You can read <a href="https://gohugo.io/hosting-and-deployment/hosting-on-netlify/">here</a> how Hugo and Netlify interact and support you in making your website in minutes. Yes, if you have some basic knowledge about websites, it took me hours because the only previous experience was WordPress.
 
 Anyway, I’m excited because now everything seems working correctly. I only need to get better with HTML and CSS and write some content. A simple rule I’m setting for myself: never amend what has been written. Otherwise, I’ll review each post every day.
-
-<!--
-Basically, the steps I followed have been:
-1) create a <a href="https://github.com/new">new repository</a> on Git;
-3) download the repository on my laptop;
-4) follow the steps described in this <a href="https://hugoloveit.com/theme-documentation-basics/# ">documentation</a>, create a new Hugo website in the repo's folder;
-5) configure the website on Netlify, setting the Git repo as the site's source.
--->
