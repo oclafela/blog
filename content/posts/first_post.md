@@ -62,6 +62,6 @@ seo:
 
 > This website, **a collection of random stuff**, is built on <a href="https://www.gohugo.io/">Hugo</a> and hosted and deployed by <a href="https://www.netlify.com/">Netlify</a>.
 
-You can read <a href="https://gohugo.io/hosting-and-deployment/hosting-on-netlify/">here</a> how Hugo and Netlify interact and support you in making your website in minutes. Yes, if you have some basic knowledge about websites, it took me hours because the only previous experience was WordPress.
+You can read <a href="https://gohugo.io/hosting-and-deployment/hosting-on-netlify/">here</a> how Hugo and Netlify interact and support you in making your website in minutes. I struggled, and I needed more than five minutes because I didn’t have any background in building websites.
 
-Anyway, I’m excited because now everything seems working correctly. I only need to get better with HTML and CSS and write some content. A simple rule I’m setting for myself: never amend what has been written. Otherwise, I’ll review each post every day.
+Anyway, I’m excited because now everything seems to work correctly. I only need to get better with HTML and CSS and write some content. A simple rule I’m setting for myself: never amend what has been written. Otherwise, I’ll review each post every day.
