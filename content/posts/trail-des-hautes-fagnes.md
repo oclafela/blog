@@ -68,7 +68,7 @@ I was confident of finishing the race, but, as always, I didn’t pay too much a
 
 The organisation was excellent. The race started and arrived at the Xhoffraix Football Club. Facilities were available to the runners: parking spots, showers and locker rooms, food, drinks, and a small COVID test centre. Furthermore, the cloudy weather was perfect, with 22 degrees and no rain. The sun appeared after I took my shower, as I was drinking a beer.
 
-The runners were grouped for the first 5 kilometres, and I followed the flow, running faster than expected. After that, there was a tough climb, and I started having some lactic acid problems in my right calf. I started drinking the water I had, and at the feeding station located at km 8, I took on board some isotonic drinks and pieces of banana; problem solved.
+The runners were grouped for the first 5 kilometres, and I followed the flow, running faster than expected. After that, there was a tough climb, and I started having some lactic acid problems in my right calf. I started drinking the water I had, and at the aid station located at km 8, I took on board some isotonic drinks and pieces of banana; problem solved.
 
 The race route was so beautiful. I ran almost the entire race in forests, with some small rivers to cross. The path was well marked, and members of the organisation were located in the crucial points supporting the runners. The second staging point was at kilometre 16, just before another climb. I enjoyed the experience, and I ran for most of the time. There was room for me to push a bit harder than I did, but in the end, I was satisfied with my performance.
 
