@@ -69,6 +69,6 @@ I started enjoying running in 2017. Moving to Luxembourg from London in 2019, I 
 - [x] 2021-09-11 :luxembourg: <a href="https://www.utml.lu/">Leopard-Ultratrail Mullerthal</a>, 39 km / 1100 m+
 - [x] 2021-09-25 :belgium: <a href="https://www.traildeshautesfagnes.be/fr/">Trail des Hautes Fagnes</a>, 24 km / 700 m+
 - [x] 2021-10-02 :belgium: <a href="https://www.mldtvdc.com/">Trail Vallées du Chevalier</a>, 33 km / 1110 m+
-- [ ] 2021-10-10 :it: <a href="https://borctrail.it/">Short Borc</a>, 21 km / 1200 m+
-- [ ] 2021-11-20 :it: <a href="https://www.traildelcinghialerace.com/">Trail del Cinghiale</a>, 63 km / 3450 m+
+- [x] 2021-10-10 :it: <a href="https://borctrail.it/">Short Borc</a>, 21 km / 1200 m+
+- [ ] 2021-11-20 :it: <a href="https://www.traildelcinghialerace.com/">Trail del Cinghiale</a>, 30 km / 1560 m+
 - [ ] 2022-04-9 :scotland: <a href="https://ultratourofarran.co.uk/">Ultra Tour of Arran</a>, 100 km / 2794 m+
