@@ -66,7 +66,6 @@ A brief summary about myself.
 ### races
 I started enjoying running in 2017. Moving to Luxembourg from London in 2019, I discovered trail running. Spurred on by a friend of mine, I attended my first trail competition in 2021.
 {{< admonition type=tip title="planned" open=true >}}
-- [ ] 2021-11-20 :it: <a href="https://www.traildelcinghialerace.com/">Trail del Cinghiale</a>, 30 km / 1560 m+
 - [ ] 2022-03-26 :it: <a href="https://www.chiantiultratrail.com/ultra-trail/">Chianti Ultra Trail</a>, 73 km / 2700 m+
 - [ ] 2022-04-9 :scotland: <a href="https://ultratourofarran.co.uk/">Ultra Tour of Arran</a>, 100 km / 2794 m+
 - [ ] 2022-11-19 :it: <a href="https://www.traildelcinghialerace.com/">Trail del Cinghiale</a>, 63 km / 3500 m+
@@ -77,4 +76,5 @@ I started enjoying running in 2017. Moving to Luxembourg from London in 2019, I 
 - [x] 2021-09-25 :belgium: <a href="https://www.traildeshautesfagnes.be/fr/">Trail des Hautes Fagnes</a>, 24 km / 700 m+
 - [x] 2021-10-02 :belgium: <a href="https://www.mldtvdc.com/">Trail Vallées du Chevalier</a>, 33 km / 1110 m+
 - [x] 2021-10-10 :it: <a href="https://borctrail.it/">Short Borc</a>, 21 km / 1200 m+
+- [x] 2021-11-20 :it: <a href="https://www.traildelcinghialerace.com/">Trail del Cinghiale</a>, 30 km / 1560 m+
 {{< /admonition >}}
