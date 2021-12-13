@@ -539,7 +539,7 @@ theme = "LoveIt"
 
 
 [menu]
- 
+
   [[menu.main]]
     identifier = "About"
     pre = ""
@@ -548,3 +548,11 @@ theme = "LoveIt"
     url = "/about/"
     title = ""
     weight = 1
+   [[menu.main]]
+    identifier = "Books"
+    pre = ""
+    post = ""
+    name = "books"
+    url = "/books/"
+    title = ""
+    weight = 2
