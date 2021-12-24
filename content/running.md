@@ -65,7 +65,7 @@ I understand there's a guy inside me who wants to lay in bed, smoke weed all day
 
 
 ### races
-I started enjoying running in 2017. Moving to Luxembourg from London in 2019, I discovered trail running. Spurred on by a friend of mine, I attended my first trail competition in 2021.
+I started running in 2017. Then, moving from London to Luxembourg, I discovered trail running. Spurred on by a friend, I attended my first trail competition in 2021.
 {{< admonition type=tip title="planned" open=true >}}
 - [ ] 2022-03-26 :it: <a href="https://www.chiantiultratrail.com/ultra-trail/">Chianti Ultra Trail</a>, 73 km / 2700 m+
 - [ ] 2022-04-9 :scotland: <a href="https://ultratourofarran.co.uk/">Ultra Tour of Arran</a>, 100 km / 2794 m+
