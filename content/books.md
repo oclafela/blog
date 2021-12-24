@@ -61,5 +61,3 @@ seo:
 {{< admonition type=quote title="Cicero" open=true >}}
 If you have a garden and a library, you have everything you need.
 {{< /admonition >}}
-
-{{< image src="/images/cicero.jpg" caption="Lighthouse (`image`)" src_s="/images/cicero.jpg" src_l="/images/cicero.jpg" >}}
