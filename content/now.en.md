@@ -73,7 +73,7 @@ I'm part of the <a href="https://www.satispay.com/en-it/" target="_blank" rel="n
 I decided to do it seriously since I was dedicating quite a lot of time to running, but I was getting fatter. So since November 2021, I'm following the advice of a <a href="https://www.fabrizioangelini.it/" target="_blank" rel="noopener noreferrer">nutritionist</a>, and I started working with a <a href="https://trailrunningcoaching.com/" target="_blank" rel="noopener noreferrer">coach</a>. I'm planning the 2022 season; I’ll let you know when the calendar is ready. In the meantime, check out my signs of progress on <a href="https://www.strava.com/athletes/16418038" target="_blank" rel="noopener noreferrer">Strava</a>.
 
 ### reading <a id="reading"></a>
-I'm not reading, but I buy a book per week. So I have a long reading queue of books I’ve bought over the last few years; please don’t suggest something new. I promise to read more, tracking it on <a href="https://www.goodreads.com/user/show/89459057-alessandro-falco" target="_blank" rel="noopener noreferrer">goodreads</a>.
+I'm not reading, but I buy a book per week. So I have a long reading queue of books I’ve bought over the last few years; please don’t suggest something new. I promise to read more, tracking it on <a href="https://www.goodreads.com/user/show/89459057-oclaf" target="_blank" rel="noopener noreferrer">goodreads</a>.
 
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>

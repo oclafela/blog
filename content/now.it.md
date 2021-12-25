@@ -73,7 +73,7 @@ Insieme al resto del team di <a href="https://www.satispay.com/en-it/" target="_
 Ho deciso di fare le cose sul serio visto che alla fine ci dedico diverso tempo ma ingrasso solamente. Da Novembre 2021, sono seguito da un <a href="https://www.fabrizioangelini.it/" target="_blank" rel="noopener noreferrer">nutrizionista</a> e da un <a href="https://trailrunningcoaching.com/" target="_blank" rel="noopener noreferrer">allenatore</a>. Sto pianificando la stagione 2022; nel frattempo puoi controllare i miei progressi su <a href="https://www.strava.com/athletes/16418038" target="_blank" rel="noopener noreferrer">Strava</a>.
 
 ### leggere <a id="leggere"></a>
-Non sto leggendo, ma continuo a comprare un libro a settimana di media. Mi ritrovo con una lista di libri da leggere comprati negli ultimi anni infinita; evita di consigliarmene di nuovi. Prometto di leggere di più, tenendo traccia di tutto su <a href="https://www.goodreads.com/user/show/89459057-alessandro-falco" target="_blank" rel="noopener noreferrer">goodreads</a>.
+Non sto leggendo, ma continuo a comprare un libro a settimana di media. Mi ritrovo con una lista di libri da leggere comprati negli ultimi anni infinita; evita di consigliarmene di nuovi. Prometto di leggere di più, tenendo traccia di tutto su <a href="https://www.goodreads.com/user/show/89459057-oclaf" target="_blank" rel="noopener noreferrer">goodreads</a>.
 
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
