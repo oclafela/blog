@@ -15,8 +15,8 @@ categories: []
 featuredImage: ""
 featuredImagePreview: ""
 
-hiddenFromHomePage: false
-hiddenFromSearch: false
+hiddenFromHomePage: true
+hiddenFromSearch: true
 twemoji: false
 lightgallery: true
 ruby: true
@@ -59,7 +59,7 @@ seo:
   # ...
 ---
 ### me
-A brief summary about myself.
+A brief summary in english about myself.
 * Alessandro
 * born in Florence, 1988
 * languages :it: & :uk:

@@ -1,5 +1,5 @@
 ---
-title: "books"
+title: "about"
 subtitle: ""
 date: 2021-09-20T23:00:00+08:00
 lastmod: 2021-09-20T23:00:00+08:00
@@ -12,7 +12,7 @@ images: []
 
 tags: []
 categories: []
-featuredImage: "cicero.jpg"
+featuredImage: ""
 featuredImagePreview: ""
 
 hiddenFromHomePage: true
@@ -58,6 +58,8 @@ seo:
   images: []
   # ...
 ---
-{{< admonition type=quote title="Cicero" open=true >}}
-If you have a garden and a library, you have everything you need.
-{{< /admonition >}}
+### me
+piccolo sommario
+* Alessandro
+* born in Florence, 1988
+* languages :it: & :uk:

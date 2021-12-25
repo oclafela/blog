@@ -150,12 +150,12 @@ theme = "LoveIt"
 
   # Social config about the author
   [params.social]
-    GitHub = "oclafela"
-    Linkedin = "alessandrofalco"
-    Twitter = "elaoclaf"
+    GitHub = ""
+    Linkedin = ""
+    Twitter = ""
     Instagram = ""
     Facebook = ""
-    Telegram = "oclaf"
+    Telegram = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -538,29 +538,90 @@ theme = "LoveIt"
   taxonomyTerm = ["HTML"]
 
 
+
+
+
+
 [menu]
 
-  [[menu.main]]
-    identifier = "About"
-    pre = ""
-    post = ""
-    name = "about"
-    url = "/about/"
-    title = ""
+
+
+# [en, zh-cn, fr, pl, ...] determines default content language
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
     weight = 1
-    [[menu.main]]
-     identifier = "Running"
-     pre = ""
-     post = ""
-     name = "running"
-     url = "/running/"
-     title = ""
-     weight = 2
-   [[menu.main]]
-    identifier = "Books"
-    pre = ""
-    post = ""
-    name = "books"
-    url = "/books/"
-    title = ""
-    weight = 3
+    title = "This is My New Hugo Site"
+    languageCode = "en"
+    languageName = "english"
+  #  [[languages.en.menu.main]]
+  #    identifier = "about"
+  #    pre = ""
+  #    post = ""
+  #    name = "about"
+  #    url = "/about/"
+  #    title = ""
+  #    weight = 1
+    [[languages.en.menu.main]]
+      identifier = "now"
+      pre = ""
+      post = ""
+      name = "now"
+      url = "/now/"
+      title = ""
+      weight = 2
+  #  [[languages.en.menu.main]]
+  #    identifier = "running"
+  #    pre = ""
+  #    post = ""
+  #    name = "running"
+  #    url = "/running/"
+  #    title = ""
+  #    weight = 3
+  #  [[languages.en.menu.main]]
+  #      identifier = "books"
+  #      pre = ""
+  #      post = ""
+  #      name = "books"
+  #      url = "/books/"
+  #      title = ""
+  #      weight = 4
+
+  [languages.it]
+    weight = 2
+    title = "Questo è il mio nuovo sito basato su Hugo"
+    languageCode = "it"
+    languageName = "italiano"
+  #  [[languages.it.menu.main]]
+  #    identifier = "about"
+  #    pre = ""
+  #    post = ""
+  #    name = "me"
+  #    url = "/about/"
+  #    title = ""
+  #    weight = 1
+    [[languages.it.menu.main]]
+      identifier = "now"
+      pre = ""
+      post = ""
+      name = "now"
+      url = "/now/"
+      title = ""
+      weight = 2
+  #  [[languages.it.menu.main]]
+  #    identifier = "running"
+  #    pre = ""
+  #    post = ""
+  #    name = "corsa"
+  #    url = "/running/"
+  #    title = ""
+  #    weight = 3
+  #  [[languages.it.menu.main]]
+  #      identifier = "books"
+  #      pre = ""
+  #      post = ""
+  #      name = "libri"
+  #      url = "/books/"
+  #      title = ""
+  #      weight = 4
