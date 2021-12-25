@@ -11,7 +11,7 @@ theme = "LoveIt"
   #  LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "This is My New Hugo Site"
+  description = "Oclaf's webspace"
   # site keywords
   keywords = ["Theme", "Hugo"]
   # site default theme ("light", "dark", "auto")
@@ -552,7 +552,7 @@ defaultContentLanguage = "en"
 [languages]
   [languages.en]
     weight = 1
-    title = "This is My New Hugo Site"
+    title = "Oclaf's webspace"
     languageCode = "en"
     languageName = "english"
   #  [[languages.en.menu.main]]
@@ -590,7 +590,7 @@ defaultContentLanguage = "en"
 
   [languages.it]
     weight = 2
-    title = "Questo è il mio nuovo sito basato su Hugo"
+    title = "Oclaf's webspace"
     languageCode = "it"
     languageName = "italiano"
   #  [[languages.it.menu.main]]
