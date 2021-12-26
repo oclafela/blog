@@ -6,7 +6,7 @@ lastmod: 2021-12-25T23:00:00+08:00
 draft: false
 author: "oclaf"
 authorLink: ""
-description: "la pagina che ti dice su cosa si sta concentrando oclaf a questo punto della sua vita"
+description: "su cosa si sta concentrando oclaf"
 license: ""
 images: []
 

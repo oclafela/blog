@@ -6,7 +6,7 @@ lastmod: 2021-12-25T23:00:00+08:00
 draft: false
 author: "oclaf"
 authorLink: ""
-description: "page that tells you what oclaf is focused on at this point in his life"
+description: "what oclaf is focused on"
 license: ""
 images: []
 
@@ -61,7 +61,7 @@ seo:
 This is a <a href="https://nownownow.com/about" target="_blank" rel="noopener noreferrer">now page</a>, and if you have your own site, you should make one, too. I updated this page for the last time the 25th of December, 2021; feel free to consider it as a Christmas gift.
 
 ### living <a id="living"></a>
-The tiny (but beautiful) Luxembourg has been hosting me since May 2020. The city is lovely; public transportations are free; many public parks and forests; you can speak Italian everywhere (almost). But a year and a half are probably enough for a tiny place, isn't it? Ps Luxembourg is between France, Belgium and Germany, in case you're wondering (I know you're).
+The tiny (but beautiful) Luxembourg has been hosting me since May 2020. The city is lovely; public transportations are for free; many public parks and forests; you can speak Italian everywhere (almost). But a year and a half are probably enough for a tiny place, isn't it? Ps Luxembourg is between France, Belgium and Germany, in case you're wondering (I know you're).
 
 ### learning <a id="learning"></a>
 I'm studying at the <a href="https://www.open.ac.uk/" target="_blank" rel="noopener noreferrer">Open University</a>, pursuing my Business Management bachelor's degree as a part-time student (six years in total, 2019-2025). I’m attending the “B207 Shaping business opportunities” module; once completed, I'll be halfway through my studies!

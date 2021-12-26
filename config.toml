@@ -126,7 +126,7 @@ theme = "LoveIt"
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = "aless.falco@gmail.com"
+      gravatarEmail = "bjujd2dxa@mozmail.com"
       # URL of avatar shown in home page
       avatarURL = "/images/avatar.png"
       #  title shown in home page (HTML format is supported)
@@ -212,7 +212,7 @@ theme = "LoveIt"
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Email = ""
+    Email = "bjujd2dxa@mozmail.com"
     RSS = false #
 
   #  Page config
@@ -493,7 +493,7 @@ theme = "LoveIt"
 # Author config
 [author]
   name = "oclaf"
-  email = "aless.falco@gmail.com"
+  email = "bjujd2dxa@mozmail.com"
   link = "http://oclaf.me"
 
 # Sitemap config
@@ -552,7 +552,7 @@ defaultContentLanguage = "en"
 [languages]
   [languages.en]
     weight = 1
-    title = "oclaf's webspace"
+    title = "oclaf"
     languageCode = "en"
     languageName = "english"
   #  [[languages.en.menu.main]]
@@ -590,7 +590,7 @@ defaultContentLanguage = "en"
 
   [languages.it]
     weight = 2
-    title = "Oclaf's webspace"
+    title = "oclaf"
     languageCode = "it"
     languageName = "italiano"
   #  [[languages.it.menu.main]]
