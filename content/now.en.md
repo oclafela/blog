@@ -74,13 +74,3 @@ I decided to do it seriously since I was dedicating quite a lot of time to runni
 
 ### reading <a id="reading"></a>
 I'm not reading, but I buy a book per week. So I have a long reading queue of books I’ve bought over the last few years; please don’t suggest something new. I promise to read more, tracking it on <a href="https://www.goodreads.com/user/show/89459057-oclaf" target="_blank" rel="noopener noreferrer">goodreads</a>.
-
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('oclaf', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#323842',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>

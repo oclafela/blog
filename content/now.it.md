@@ -74,13 +74,3 @@ Ho deciso di fare le cose sul serio visto che alla fine ci dedico diverso tempo 
 
 ### leggere <a id="leggere"></a>
 Non sto leggendo, ma continuo a comprare un libro a settimana di media. Mi ritrovo con una lista di libri da leggere comprati negli ultimi anni infinita; evita di consigliarmene di nuovi. Prometto di leggere di più, tenendo traccia di tutto su <a href="https://www.goodreads.com/user/show/89459057-oclaf" target="_blank" rel="noopener noreferrer">goodreads</a>.
-
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('oclaf', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Supportami',
-    'floating-chat.donateButton.background-color': '#323842',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>

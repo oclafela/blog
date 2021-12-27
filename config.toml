@@ -13,7 +13,7 @@ theme = "LoveIt"
   # site description
   description = "oclaf's webspace"
   # site keywords
-  keywords = ["Theme", "Hugo"]
+  keywords = ["oclaf", "alessandro","falco"]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
@@ -86,7 +86,7 @@ theme = "LoveIt"
   [params.footer]
     enable = true
     #  Custom content (HTML format is supported)
-    custom = ''
+    custom = 'handcrafted by me, designed by <a rel="loveit external nofollow noopener noreffer" href="https://hugoloveit.com/" target="_blank">LoveIt</a>, powered by <a rel="netlify external nofollow noopener noreffer" href="https://www.netlify.com/" target="_blank">Netlify</a> and <a rel="hugo external nofollow noopener noreffer" href="https://gohugo.io/" target="_blank">Hugo</a>'
     #  whether to show Hugo and theme info
     hugo = false
     #  whether to show copyright info
@@ -139,6 +139,8 @@ theme = "LoveIt"
       social = true
       #  disclaimer (HTML format is supported)
       disclaimer = ""
+
+
     # Home page posts
     [params.home.posts]
       enable = false
