@@ -98,7 +98,7 @@ theme = "LoveIt"
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
-    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a> | <a href="https://www.iubenda.com/privacy-policy/49555315" rel="iubenda external nofollow noopener noreffer" target="_blank">Privacy Policy</a>'
 
   #  Section (all posts) page config
   [params.section]
@@ -557,14 +557,7 @@ defaultContentLanguage = "en"
     title = "oclaf"
     languageCode = "en"
     languageName = "english"
-  #  [[languages.en.menu.main]]
-  #    identifier = "about"
-  #    pre = ""
-  #    post = ""
-  #    name = "about"
-  #    url = "/about/"
-  #    title = ""
-  #    weight = 1
+
     [[languages.en.menu.main]]
       identifier = "now"
       pre = ""
@@ -572,37 +565,15 @@ defaultContentLanguage = "en"
       name = "now"
       url = "/now/"
       title = ""
-      weight = 2
-  #  [[languages.en.menu.main]]
-  #    identifier = "running"
-  #    pre = ""
-  #    post = ""
-  #    name = "running"
-  #    url = "/running/"
-  #    title = ""
-  #    weight = 3
-  #  [[languages.en.menu.main]]
-  #      identifier = "books"
-  #      pre = ""
-  #      post = ""
-  #      name = "books"
-  #      url = "/books/"
-  #      title = ""
-  #      weight = 4
+      weight = 1
+
 
   [languages.it]
     weight = 2
     title = "oclaf"
     languageCode = "it"
     languageName = "italiano"
-  #  [[languages.it.menu.main]]
-  #    identifier = "about"
-  #    pre = ""
-  #    post = ""
-  #    name = "me"
-  #    url = "/about/"
-  #    title = ""
-  #    weight = 1
+
     [[languages.it.menu.main]]
       identifier = "now"
       pre = ""
@@ -610,20 +581,4 @@ defaultContentLanguage = "en"
       name = "now"
       url = "/now/"
       title = ""
-      weight = 2
-  #  [[languages.it.menu.main]]
-  #    identifier = "running"
-  #    pre = ""
-  #    post = ""
-  #    name = "corsa"
-  #    url = "/running/"
-  #    title = ""
-  #    weight = 3
-  #  [[languages.it.menu.main]]
-  #      identifier = "books"
-  #      pre = ""
-  #      post = ""
-  #      name = "libri"
-  #      url = "/books/"
-  #      title = ""
-  #      weight = 4
+      weight = 1

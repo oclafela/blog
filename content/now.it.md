@@ -58,7 +58,7 @@ seo:
   images: []
   # ...
 ---
-Questa è una <a href="https://nownownow.com/about" target="_blank" rel="noopener noreferrer">pagina now</a> e se anche te hai un sito dovresti copiare l'idea. Ho aggiornato questa pagina per l'ultima volta il 25 Dicembre 2021; consideralo un regalo di Natale.
+Questa è una <a href="https://nownownow.com/about" target="_blank" rel="noopener noreferrer">pagina now</a> e se anche te hai un sito dovresti entrare a far parte del movimento. Ho aggiornato questa pagina per l'ultima volta il 25 Dicembre 2021; consideralo un regalo di Natale.
 
 ### vivere <a id="vivere"></a>
 Il piccolo (ma bello) Lussemburgo mi sta ospitando ormai dal Maggio 2020. La città è incantevole; i trasporti pubblici sono gratuiti; un sacco di verde con parchi e foreste; puoi parlare Italiano ovunque (o quasi). Ma un anno e mezzo probabilmente è abbastanza in un posto piccolo, no? Ps il Lussemburgo è tra Francia, Belgio e Germania, nel caso te lo stessi chiedendo (lo so che te lo stavi chiedendo).
