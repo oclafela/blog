@@ -15,7 +15,7 @@ theme = "LoveIt"
   # site keywords
   keywords = ["oclaf","alessandro","falco"]
   # site default theme ("light", "dark", "auto")
-  defaultTheme = "auto"
+  defaultTheme = "dark"
   # public git repo url only then enableGitInfo is true
   gitRepo = ""
   #  which hash function used for SRI, when empty, no SRI is used
