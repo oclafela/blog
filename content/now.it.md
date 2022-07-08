@@ -2,7 +2,7 @@
 title: "now"
 subtitle: ""
 date: 2021-12-25T23:00:00+08:00
-lastmod: 2021-12-25T23:00:00+08:00
+lastmod: 2022-07-08T23:00:00+08:00
 draft: false
 author: "oclaf"
 authorLink: ""
@@ -67,7 +67,7 @@ Sono ormai due anni che il piccolo (ma bello) Lussemburgo mi ospita. La città �
 Sono iscritto alla <a href="https://www.open.ac.uk/" target="_blank" rel="noopener noreferrer">Open University</a>, al corso di laurea in Business Management come studente part-time (6 anni in totale, 2019-2025). Sto terminando il corso “B207 Shaping business opportunities”; passato quest'esame sarò esattamente a metà delle mie fatiche.  
 
 ### lavorare <a id="lavorare"></a>
-A Marzo 2022 ho lasciato <a href="https://www.satispay.com/en-it/" target="_blank" rel="noopener noreferrer">Satispay</a> dopo 7 anni; praticamente ho vissuto la fase startup-unicorno ricoprendo il ruolo di Chief Information Officer. Ad Aprile 2022 mi sono unito a <a href="https://www.PPRO.com/" target="_blank" rel="noopener noreferrer">PPRO</a> con il ruolo di Outsourcing & 3rd Party Manager, un cambio impegnativo sia per via del ruolo che per la complessità dell'azienda e dei suoi servizi.
+A Marzo 2022 ho lasciato <a href="https://www.satispay.com/en-it/" target="_blank" rel="noopener noreferrer">Satispay</a> dopo 7 anni; praticamente ho vissuto la fase startup-unicorno ricoprendo il ruolo di Chief Information Officer. Ad Aprile 2022 mi sono unito a <a href="https://www.PPRO.com/" target="_blank" rel="noopener noreferrer">PPRO</a> con il ruolo di Outsourcing & 3rd Party Manager, un cambio impegnativo sia per via del ruolo che per la complessità dell'azienda e dei servizi che offre.
 
 ### correre <a id="correre"></a>
 Ho deciso di fare le cose sul serio visto che alla fine ci dedico diverso tempo ma ingrasso solamente. Da Novembre 2021, sono seguito da un <a href="https://www.fabrizioangelini.it/" target="_blank" rel="noopener noreferrer">nutrizionista</a> e da un <a href="https://trailrunningcoaching.com/" target="_blank" rel="noopener noreferrer">allenatore</a>. Puoi controllare i miei progressi su <a href="https://www.strava.com/athletes/16418038" target="_blank" rel="noopener noreferrer">Strava</a>.

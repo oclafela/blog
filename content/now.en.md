@@ -2,7 +2,7 @@
 title: "now"
 subtitle: ""
 date: 2021-12-25T23:00:00+08:00
-lastmod: 2021-12-25T23:00:00+08:00
+lastmod: 2022-07-08T23:00:00+08:00
 draft: false
 author: "oclaf"
 authorLink: ""
@@ -58,19 +58,19 @@ seo:
   images: []
   # ...
 ---
-This is a <a href="https://nownownow.com/about" target="_blank" rel="noopener noreferrer">now page</a>, and if you have your own site, you should make one, too. I updated this page for the last time the 25th of December, 2021; feel free to consider it as a Christmas gift.
+This is a <a href="https://nownownow.com/about" target="_blank" rel="noopener noreferrer">now page</a>. The last time I updated this page was on July 8, 2022.
 
 ### living <a id="living"></a>
-The tiny (but beautiful) Luxembourg has been hosting me since May 2020. The city is lovely; public transportations are for free; many public parks and forests; you can speak Italian everywhere (almost). But a year and a half are probably enough for a tiny place, isn't it? Ps Luxembourg is between France, Belgium and Germany, in case you're wondering (I know you're).
+Luxembourg, a tiny (but lovely) country, has been hosting me since May 2020. The city is beautiful; public transportation is free; there are numerous public parks and forests; and you can speak Italian everywhere (almost). But the space is even too small, and I require new motivation. I'll try to have defined my future by the end of 2022.
 
 ### learning <a id="learning"></a>
-I'm studying at the <a href="https://www.open.ac.uk/" target="_blank" rel="noopener noreferrer">Open University</a>, pursuing my Business Management bachelor's degree as a part-time student (six years in total, 2019-2025). I’m attending the “B207 Shaping business opportunities” module; once completed, I'll be halfway through my studies!
+I'm studying at the <a href="https://www.open.ac.uk/" target="_blank" rel="noopener noreferrer">Open University</a>, pursuing my Business Management bachelor's degree as a part-time student (six years in total, 2019-2025). I'm finishing up the "B207 Shaping Business Opportunities" module, which will put me halfway through my studies!
 
 ### working <a id="working"></a>
-I'm part of the <a href="https://www.satispay.com/en-it/" target="_blank" rel="noopener noreferrer">Satispay</a> team, working on revolutionise everyday transactions by making payments as easy, cheap and secure as possible. I'm the Chief Information Officer and I do a lot of different and exciting stuff. In case you're still paying in cash during a pandemic, give Satispay a chance and get a 5 Euro welcome bonus using <a href="https://www.satispay.com/en-it/promo/?promo=ALE" target="_blank" rel="noopener noreferrer">ALE</a> as a promo code.
+I left <a href="https://www.satispay.com/en-it/" target="_blank" rel="noopener noreferrer">Satispay</a> in March 2022 after 7 years as Chief Information Officer, having lived through the startup-unicorn phases. I joined <a href="https://www.PPRO.com" target="_blank" rel="noopener noreferrer">PPRO</a> in April 2022 as an Outsourcing & 3rd Party Manager; the role is challenging considering the company's size and complexity.
 
 ### running <a id="running"></a>
-I decided to do it seriously since I was dedicating quite a lot of time to running, but I was getting fatter. So since November 2021, I'm following the advice of a <a href="https://www.fabrizioangelini.it/" target="_blank" rel="noopener noreferrer">nutritionist</a>, and I started working with a <a href="https://trailrunningcoaching.com/" target="_blank" rel="noopener noreferrer">coach</a>. I'm planning the 2022 season; I’ll let you know when the calendar is ready. In the meantime, check out my signs of progress on <a href="https://www.strava.com/athletes/16418038" target="_blank" rel="noopener noreferrer">Strava</a>.
+I decided to do it seriously since I was dedicating quite a lot of time to running, but I was getting fatter. So since November 2021, I'm following the advice of a <a href="https://www.fabrizioangelini.it/" target="_blank" rel="noopener noreferrer">nutritionist</a>, and I started working with a <a href="https://trailrunningcoaching.com/" target="_blank" rel="noopener noreferrer">coach</a>. Check out my signs of progress on <a href="https://www.strava.com/athletes/16418038" target="_blank" rel="noopener noreferrer">Strava</a>.
 
 ### reading <a id="reading"></a>
 I'm not reading, but I buy a book per week. So I have a long reading queue of books I’ve bought over the last few years; please don’t suggest something new. I promise to read more, tracking it on <a href="https://www.goodreads.com/user/show/89459057-oclaf" target="_blank" rel="noopener noreferrer">goodreads</a>.
