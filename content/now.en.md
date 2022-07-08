@@ -61,7 +61,7 @@ seo:
 This is a <a href="https://nownownow.com/about" target="_blank" rel="noopener noreferrer">now page</a>. The last time I updated this page was on July 8, 2022.
 
 ### living <a id="living"></a>
-Luxembourg, a tiny (but lovely) country, has been hosting me since May 2020. The city is beautiful; public transportation is free; there are numerous public parks and forests; and you can speak Italian everywhere (almost). But the space is even too small, and I require new motivation. I'll try to have defined my future by the end of 2022.
+Luxembourg, a tiny (but lovely) country, has been hosting me since May 2020. The city is beautiful; public transportation is free; there are numerous public parks and forests; and you can speak Italian everywhere (almost). But the place is even too small, and I require new motivation. I'll try to have defined my future by the end of 2022.
 
 ### learning <a id="learning"></a>
 I'm studying at the <a href="https://www.open.ac.uk/" target="_blank" rel="noopener noreferrer">Open University</a>, pursuing my Business Management bachelor's degree as a part-time student (six years in total, 2019-2025). I'm finishing up the "B207 Shaping Business Opportunities" module, which will put me halfway through my studies!
